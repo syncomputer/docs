@@ -1,4 +1,7 @@
 module.exports = {
+  themeConfig: {
+    repo: 'syncomputer'
+  },
   plugins: ['@vuepress/last-updated','@vuepress/back-to-top'],
   locales: {
     // 键名是该语言所属的子路径
